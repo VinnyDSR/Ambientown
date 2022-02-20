@@ -1,0 +1,28 @@
+{
+	"npcs":
+	
+		{
+			"name": "Newspaper",
+			"TxtEn":
+				[
+				"Look, this newspaper is spreading the word about recycling and selective garbage collection",
+				"These are important issues, and fundamental in the collection and packaging of garbage that we talked about before",
+				"Recycling allows us to reduce the amount of garbage accumulated in urban centers, and also reduces the use of non-renewable natural sources. The reuse of garbage for other purposes is proving to be fundamental for cities.",
+				"As for selective collection, leaving the right garbage in the right place, besides facilitating recycling, helps in the decomposition of each specific garbage that cannot be recycled, such as plastics, cigarette butts, among others.",
+				"These are two very important processes for the environment of the cities. Keep collecting the garbage and let's move forward!"
+				],
+			"TxtPt":
+			[
+				"Olha, esse jornal está divulgando a reciclagem e a coleta seletiva do lixo.",
+				"São assuntos importantes, e fundamentais na coleta e no acondicionamento do lixo que falamos antes.",
+				"A reciclagem permite que se diminua a quantidade de lixo acumulado nos centros urbanos, e também diminui o uso de fontes naturais não renováveis. O reuso do lixo para outros fins vem se mostrando fundamental para as cidades.",
+				"Já a coleta seletiva, deixar o lixo certo no lugar certo, além de facilitar a reciclagem, ajuda na decomposição de cada lixo específico que não pode ser reciclado, como os plásticos, as bitucas de cigarro, entre outros.",
+				"São dois processos muito importantes para o meio ambiente das cidades. Continue coletando o lixo e vamos avançar!"
+			]
+			
+		}
+		
+	
+	
+
+}

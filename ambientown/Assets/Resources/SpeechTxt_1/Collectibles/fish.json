@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"Fish bones",
+      "TxtEn":[
+         "Water pollution resulting from inappropriate garbage disposal, causes the contamination of rivers and lakes, killing many animals and generating a deficit in the local fauna.",
+         "Thus, both pollution, overfishing and the presence of invasive species, have contributed to a decline of more than 70% of the freshwater fish population in less than 50 years.",
+         "Collecting the garbage that is dumped in rivers and lakes will help a lot with the animals. Continues!"
+      ],
+      "TxtPt":[
+         "A poluição hídrica, decorrente do despejo indevido do lixo tanto em ruas das cidades,quanto em rios e lagos.Devido ao despejo de forma incorreta acabam por contaminar rios e lagos levando a morte de diversos animais tendo um déficit da fauna local.",
+         "Assim, tanto a poluição, quanto a pesca predatória e a presença de espécies invasoras, contribuíram para um declínio de, em menos 50 anos, mais de 70% da população dos peixes de água doce.",
+         "Coletar o lixo que é despejado nos rios e lagos auxiliará muito com os animais. Continue!"
+      ]
+   }
+}

@@ -1,0 +1,28 @@
+{
+	"npcs":
+	
+		{
+			"name": "Ronald first encounter",
+			"TxtEn":
+				[
+				"Hello, I'm the businessman Ronald. Not Donald, Ronald. And not McDonald either, just Ronald really.",
+				"I came here to this town to make a lot of money, not that i dont already have. But the more we have, the more we want. You know how it is, right?",
+				"It's weird, a lot of people don't like me around here. But I think it's envy, if they had the willpower I had, they would be in my place. That's what my father, and my grandfather, and my great-grandfather, always said when they made their fortunes. We're rich because we deserve it, you know?",
+				"I was told that you helped in the reforestation of the forest with the lumberjack. He was my employee. Now I don't have anyone to cut down trees anymore. My cattle need a place to graze, and I need an open area to set up new factories.",
+				"You've gotten in my way a lot, know that. Well, time is money, I don't know what you've come here to do, but if you're going to collect the town's garbage and come with talk about the environment, know that I won't pay any sort of attention. I have to go, see you later, \"hero\"."
+				],
+			"TxtPt":
+			[
+				"Olá, eu sou o empresário Ronald. Não Donald, Ronald. E também não o McDonald, apenas Ronald mesmo.",
+				"Vim aqui para essa cidade para fazer muito dinheiro, não que eu já não tivesse. Mas quanto mais temos, mais queremos.",
+				"É estranho, muita gente não gosta de mim por aqui. Mas acho que é inveja, se eles tivessem a força de vontade que tive, estariam no meu lugar. Foi o que meu pai, e meu avô, e meu bisavô, sempre diziam quando fizeram suas fortunas. Somos ricos porque merecemos, sabe?",
+				"Me disseram que você ajudou no reflorestamento da floresta com o lenhador. Ele era meu funcionário. Agora não tenho mais quem corte árvores para mim. Meu gado precisa de lugar para pastar, e preciso de área livre para instalar novas fábricas.",
+				"Você me atrapalhou muito, saiba disso. Bom, tempo é dinheiro, não sei o que veio fazer aqui, mas se for recolher o lixo da cidade e vir com conversas sobre o meio ambiente, saiba que não vou dar atenção. Tenho que ir, até logo, \"herói\"."
+			]
+			
+		}
+		
+	
+	
+
+}

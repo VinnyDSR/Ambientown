@@ -1,0 +1,24 @@
+{
+	"npcs":
+	
+		{
+			"name": "Salles second encounter",
+			"TxtEn":
+				[
+				"Wow, you managed to get all the seeds we need, let's replant our forest!",
+				"Now that we have learned all this, we can say that trees are necessary for the life of all of us. They help purify and humidify the air, as well as benefiting animals and the many residents who take advantage of their fruits, including you and me.",
+				"We must not stand still! Whenever possible, be a hero. Plant a tree and fight deforestation!"
+				],
+			"TxtPt":
+			[
+				"Uau! Você conseguiu pegar todas as sementes que precisávamos, vamos replantar a nossa floresta.",
+				"Agora que aprendemos tudo isso, podemos afirmar que as árvores são necessárias para a vida de todos nós. Auxiliam na purificação e na umidade do ar, além de beneficiar animais e diversos moradores que se aproveitam de seus frutos, inclusive eu e você.",
+				"Não devemos ficar parados! Sempre que possível, seja um herói. Plante uma árvore e combata o desmatamento!"
+			]
+			
+		}
+		
+	
+	
+
+}

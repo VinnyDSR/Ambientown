@@ -1,0 +1,19 @@
+{
+   "npcs":{
+      "name":"Windmill",
+      "TxtEn":[
+         "Wow, a windmill miniature! Do you know what that is?",
+         "A windmill is an energy generator that uses the wind or the flow of water for that production.",
+         "Because it uses renewable sources, wind energy (as the production of energy from the movement of wind is called) joins hydro (from the flow of water), solar (from sunlight), biomass (from organic matter), geothermal (from inside the earth) as a renewable source of electricity.",
+         "These energy sources should be used more because they do not degrade the environment as much as others that are widely used, such as burning fossil fuels (generating harmful gas emissions) and nuclear power (because of the risk of serious accidents).",
+         "When you can, choose renewable sources!"
+      ],
+      "TxtPt":[
+         "Uau, um moinho de brinquedo! Sabe o que é isso?",
+         "Um moinho é um gerador de energia que se utiliza do vento ou da correnteza da água para essa produção.",
+         "Por utilizar fontes renováveis, a energia eólica (como é chamada a produção de energia a partir do movimento do vento) se junta à hídrica (a partir da correnteza da água), solar (da luz do sol), biomassa (de matéria orgânica), geotérmica (do interior da terra) como fonte renovável de energia elétrica.",
+         "Essas fontes de energia devem ser mais utilizadas por não degradarem o meio ambiente tanto quanto outras que são muito utilizadas, como a queima de combustíveis fósseis (gerando emissão de gases prejudiciais) e a energia nuclear (pelo risco de graves acidentes).",
+         "Quando puder, escolha as fontes renováveis!"
+      ]
+   }
+}

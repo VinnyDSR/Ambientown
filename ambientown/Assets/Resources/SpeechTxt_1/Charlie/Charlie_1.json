@@ -1,0 +1,28 @@
+{
+	"npcs":
+	
+		{
+			"name": "Charlie",
+			"TxtEn":
+				[
+				"Wow, you saw me here",
+				"Not everyone sees me. Some pretend they don't. They are bothered to see a human in this situation, and just pretend not to be a human.",
+				"But I used to be somebody, thank you for reminding me that I exist.",
+				"You are helping a lot with the garbage collection. Improving the climate and air quality, decreasing pollution and trash accumulation, recycling. Thanks for learning about all that, and for being a hero here in our town.",
+				"My name is Charlie, I hope we can meet in the future. Now I have to see if I can find something to eat, I've been starving for days."
+				],
+			"TxtPt":
+			[
+				"Opa, você me viu aqui",
+				"Não são todos que me veem. Alguns fingem que não. Se incomodam em ver um humano nessa situação, e apenas fingem não ser um humano",
+				"Mas eu já fui alguém, obrigado por lembrar que existo.",
+				"Você está ajudando muito na coleta de lixo. A melhora do clima e da qualidade do ar, a diminuição da poluição e do acúmulo de lixo, a reciclagem. Obrigado por aprender sobre isso tudo, e por ser um herói aqui na nossa cidade.",
+				"Meu nome é Charlie, espero que possamos nos encontrar futuramente. Agora tenho que ver se acho alguma coisa para comer, estou faminto há dias."
+			]
+			
+		}
+		
+	
+	
+
+}

@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"Legasov",
+      "TxtEn":[
+         "Hello, it's an honor to meet you! You really are a hero, but I confess that I imagined you a little bit different... a little taller...",
+         "Anyway, be careful with the radiation barrels. The radioactive waves that some things out there generate have greatly affected this city and the population that lives here.",
+         "There is a barrel hidden out there, if you can collect it would be great. I am not going because I'm afraid, but you are a hero and you can do it, right"
+      ],
+      "TxtPt":[
+         "Olá, uma honra te conhecer! Você é realmente um herói, mas confesso que te imaginava um pouco diferente… um pouco mais alto...",
+         "Enfim, tome cuidado com os barris de radiação. As ondas radioativas que algumas coisas por ai geram afetaram muito essa cidade e a população que aqui vive.",
+         "Existe um barril escondido por ai, se conseguir coletá-lo seria muito bom. Não vou pois tenho medo, mas você é um herói e consegue, correto.."
+      ]
+   }
+}

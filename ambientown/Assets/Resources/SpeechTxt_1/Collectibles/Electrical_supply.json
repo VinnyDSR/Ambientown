@@ -1,0 +1,21 @@
+{
+   "npcs":{
+      "name":"Electrical Supply",
+      "TxtEn":[
+         "Look, an electric vehicle charging station",
+         "Everyone wants to have one of those nowadays. By the way, who wouldn't be influenced by Noel Musk, that friend of yours who owns one of these car companies? The guy is simply very interesting.",
+         "Anyway, electric cars are a great advance for the environment! ",
+         "The non-emission of polluting gases into the atmosphere would be a great advance. Even though they pollute the environment through their manufacture, disposal, and battery recharging, it would already be a major improvement!",
+         "They are also very quiet and durable, also helping with noise pollution and the accumulation of trash coming from old cars.",
+         "Be like Noel, and opt for an electric car (when you can't go for a walk, or go for a bike ride...)"
+      ],
+      "TxtPt":[
+         "Olha, um posto de abastecimento de carros elétricos!",
+         "Todos querem ter um desses hoje em dia. Alias, quem não seria influenciado por Noel Musk, aquele seu conhecido dono de uma empresas desses carros? O cara é simplesmente muito interessante",
+         "Enfim, carros elétricos são um grande avanço para o meio ambiente!",
+         "A não emissão de gases poluentes para a atmosfera seria um grande avanço. Ainda que poluam o meio ambiente através da sua fabricação, descarte, e recarga de baterias, já seria uma melhoria importante!",
+         "Também são muito silenciosos e duráveis, ajudando também na poluição sonora e no acúmulo de lixo vindo de carros velhos.",
+         "Seja como Noel, e opte por um carro elétrico (quando não puder fazer uma caminhada, ou dar uma pedalada de bicicleta…)"
+      ]
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "npcs":{
+      "name":"Barrel",
+      "TxtEn":[
+         "Wow, you managed to get the radioactive barrel!",
+         "Radioactive waste is a big problem for some regions of the world. The lakes are not out of it.",
+         "As an example, the place with the highest radiation exposure in the world is Lake Karachay. Located in Russia, since 1951 it has been used as a dumping site for radioactive waste.",
+		 "A drought in the 1960s caused some parts of the lake to disappear, exposing Cesium-137 and Strontium-90 to the sun. In 1967, a strong wind swept the area, carrying noxious dust to territory of about 2,700 km², including inhabited areas.",
+		 "Thus, the lake is clearly a risk for the populations that live there, and it is still seen as a threat. Radioactive waste is dangerous, and we must combat its irregular disposal."
+      ],
+      "TxtPt":[
+         "Uau, você conseguiu pegar o barril radioativo!",
+         "O lixo radioativo é um grande problema para algumas regiões do mundo. Os lagos não ficam fora disso.",
+         "Como exemplo, o lugar de maior exposição a radiação no mundo é o lago Karachay. Situado na Rússia, desde 1951 foi utilizado como lugar de despejo para lixos radioativos.",
+		 "Uma seca na década de 1960 fez com que algumas partes do lago sumissem, expondo Cesium-137 e Strontium-90 ao Sol. Em 1967, um forte vento varreu a área, levando poeira nociva a território de cerca de 2.700 km², inclusive áreas habitadas.",
+		 "Assim, o lago é evidentemente um risco para as populações que por ali vivem, e é ainda tido como ameaça. O lixo radioativo é perigoso, e devemos combater o seu depósito irregular."
+      ]
+   }
+}

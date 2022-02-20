@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AmbienTown</name>
+    </assembly>
+    <members>
+        <member name="M:AmbienTown.Controllers.ConfiguracaoController.Get">
+            <summary>
+            Consulta todas as configurações
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ConfiguracaoController.GetById(System.Int32)">
+            <summary>
+            Consulta configuração por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ConfiguracaoController.Post(AmbienTown.Dto.Configuracao.NovaConfiguracaoDto)">
+            <summary>
+            Cadastra uma configuração
+            </summary>
+            <param name="configuracao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ConfiguracaoController.Put(AmbienTown.Dto.Configuracao.AtualizarConfiguracaoDto)">
+            <summary>
+            Altera uma configuração
+            </summary>
+            <param name="configuracao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.PersonagemController.Get">
+            <summary>
+            Consulta todos os personagens
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.PersonagemController.GetById(System.Int32)">
+            <summary>
+            Consulta personagem por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.PersonagemController.Post(AmbienTown.Dto.Personagem.NovoPersonagemDto)">
+            <summary>
+            Cadastra um personagem
+            </summary>
+            <param name="personagem"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.PersonagemController.Put(AmbienTown.Dto.Personagem.AtualizarPersonagemDto)">
+            <summary>
+            Altera um personagem
+            </summary>
+            <param name="personagem"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.PersonagemController.Delete(System.Int32)">
+            <summary>
+            Deleta um personagem por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ProgressoMapaController.Get">
+            <summary>
+            Consulta todos os progressos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ProgressoMapaController.GetById(System.Int32)">
+            <summary>
+            Consulta progresso por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.ProgressoMapaController.Post(AmbienTown.Dto.ProgressoMapa.NovoProgressoMapaDto)">
+            <summary>
+            Cadastra um progresso
+            </summary>
+            <param name="progressoMapa"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.RoupaController.Get">
+            <summary>
+            Consulta todas as roupas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.RoupaController.GetById(System.Int32)">
+            <summary>
+            Consulta roupa por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.UsuarioController.GetById(System.Int32)">
+            <summary>
+            Consulta um usuário por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.UsuarioController.Post(AmbienTown.Models.Usuario)">
+            <summary>
+            Cadastra um usuário
+            </summary>
+            <param name="usuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.UsuarioController.Put(AmbienTown.Models.Usuario)">
+            <summary>
+            Altera um usuário
+            </summary>
+            <param name="usuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AmbienTown.Controllers.UsuarioController.Login(AmbienTown.Models.Login)">
+            <summary>
+            Efetua o login de um usuário
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

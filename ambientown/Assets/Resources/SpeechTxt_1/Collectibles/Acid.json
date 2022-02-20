@@ -1,0 +1,26 @@
+{
+	"npcs":
+	
+		{
+			"name": "Acid",
+			"TxtEn":
+				[
+				"Wow, a bottle of acid! That reminds me of another environmental problem to be fought in cities: acid rain.",
+				"First of all, it's not going to rain that liquid you found, acid rain is also water rain, albeit a water that can cause very bad consequences!",
+				"Caused by the emission of pollutants (whether from carbon emitted by cars, farming, factories or forest burning), it can cause respiratory diseases, loss of soil and forest quality, contamination of river water, among several others",
+				"To combat it, large industries must become aware of the excessive production of these types of pollutant gases, and start using alternative forms of energy, which you will learn about in the future."
+				],
+			"TxtPt":
+			[
+				"Uau, um frasco de ácido! Isso me lembra de outro problema ambiental a ser combatido nas cidades: a chuva ácida.",
+				"Antes de tudo, não vai chover esse líquido que você encontrou, a chuva ácida é também chuva de água, ainda que uma água que pode causar consequências muito ruins!",
+				"Causada pela emissão de poluentes (seja pelo carbono emitido pelos carros, agropecuária, fábricas ou queimadas florestais), pode causar doenças respiratórias, perda da qualidade do solo e de florestas, contaminação de água de rios, entre diversos outros",
+				"Para combatê-la, as grandes indústrias devem se conscientizar sobre a produção excessiva desses tipos de gases poluentes, e passar a utilizar formas alternativas de energias, que você irá aprender futuramente"
+			]
+			
+		}
+		
+	
+	
+
+}

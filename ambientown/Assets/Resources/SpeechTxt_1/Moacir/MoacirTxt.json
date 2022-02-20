@@ -1,0 +1,26 @@
+{
+	"npcs":
+	
+		{
+			"name": "Moacir",
+			"TxtEn":
+				[
+				"Hello, I am the indian Moacir.",
+				"Since the deforestation started here in the forest, a lot has changed. ",
+				"I feel that maybe the lumberjack is influencing this, I don't understand how he doesn't feel the harm he is causing.",
+				"Him and that strange beard of his, I can't understand it. These people are confused and don't see their reality..."
+				],
+			"TxtPt":
+			[
+				"Olá, eu sou o índio Moacir.",
+				"Desde que começou o desmatamento aqui na floresta, muita coisa mudou. ",
+				"Sinto que talvez o lenhador esteja influenciando isso, não entendo como ele não sente o mal que ele está causando.",
+				"Ele e aquela barba estranha dele, não consigo entender. Esse povo é confuso e não vê a sua realidade..."
+			]
+			
+		}
+		
+	
+	
+
+}

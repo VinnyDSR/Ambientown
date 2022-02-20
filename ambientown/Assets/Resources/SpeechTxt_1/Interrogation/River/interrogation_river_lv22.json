@@ -1,0 +1,26 @@
+{
+	"npcs":
+	
+		{
+			"name": "interrogation lvl_22",
+			"TxtEn":
+				[
+				"The reality of many rivers and lakes is this: water pollution.",
+				"Data from the Brazilian Association of Public Cleaning and Special Waste Companies (ABRELPE, 2019) reveal that the circumstances in Brazil are alarming: More than 3,326 municipalities do not dispose of their waste correctly. This number represents 59.7% of the municipalities in Brazil and impacts the lives of 76.5 million people.",
+				"Thus, various materials, especially plastic, end up in rivers and lakes, contaminating the water and harming people who depend on them.",
+				"Therefore, avoid using plastic and, when using, put it in the correct garbage. Try to get as many bottles as you can to help the people who live here on the river. Good luck!"
+				],
+			"TxtPt":
+			[
+				"A realidade de muitos rios e lagos é essa: a poluição hídrica.",
+				"Os dados da Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (ABRELPE, 2019) revelam que as circunstâncias do Brasil são alarmantes: Mais de 3.326 municípios não destinam seus resíduos corretamente. Esse número representa 59,7% dos municípios do Brasil e impacta a vida de 76,5 milhões de pessoas.",
+				"Assim, diversos materiais, em especial o plástico, vão parar nos rios e lagos, contaminando a água e fazendo mal às pessoas que dependem deles",
+				"Por isso, evite o uso de plástico e, quando utilizar, deposite no lixo correto. Tente pegar o máximo de garrafas que conseguir para ajudar o povo que vive aqui no rio. Boa sorte!"
+			]
+			
+		}
+		
+	
+	
+
+}

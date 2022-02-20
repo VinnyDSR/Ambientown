@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7769516958861578319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7769516958861578313}
+  - component: {fileID: 7769516958861578312}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7769516958861578313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7769516958861578319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.83, y: -2.67, z: -1.8825983}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7769516958861578312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7769516958861578319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fa4bd8fecf4f2a47b21bcf63554ba47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPoint: {fileID: 7769516958861578319}
+  PlayerFemale1Pink: {fileID: 5928806297230947843, guid: 2b7a7f364900e6c49ab7642a3f7b05a1, type: 3}
+  PlayerFemale1Green: {fileID: 8523452386697108533, guid: 9c4c1b3681badb54f9f3832d80d125e3, type: 3}
+  PlayerFemale1Yellow: {fileID: 6050392598740833713, guid: 701e663de2386db4e8f93d5e83190636, type: 3}
+  PlayerFemale2Pink: {fileID: 8894539633267749533, guid: f0b07d205cb21594983c0f33cecc6da8, type: 3}
+  PlayerFemale2Green: {fileID: 4425101880776389853, guid: 86c065198d3901449bbb6668d65fdec3, type: 3}
+  PlayerFemale2Yellow: {fileID: 8610494350770198456, guid: c5b6adb3d0eca3a42b7061566fa36c6e, type: 3}
+  PlayerFemale3Pink: {fileID: 3806046396048389723, guid: 0dda20ddf64bd474c9cb6a44dea7785f, type: 3}
+  PlayerFemale3Green: {fileID: 1032693741812996232, guid: 6c0d219320041a3438d93dffbcfc53d1, type: 3}
+  PlayerFemale3Yellow: {fileID: 967289632415668629, guid: aceedaed77808f24384bc95186aa7fb4, type: 3}
+  PlayerMale1Red: {fileID: 4339551472168533725, guid: 49b17e75f2d30f74089d0c0170cf5b82, type: 3}
+  PlayerMale1Green: {fileID: 7421493831495001493, guid: 45396dc443988814fb887b2c095af79f, type: 3}
+  PlayerMale1Blue: {fileID: 4366615174011529079, guid: 18431295e89e982458ad9b5473c94885, type: 3}
+  PlayerMale2Red: {fileID: 2532055565916218885, guid: d1199b35581f3734cb0d749812351331, type: 3}
+  PlayerMale2Green: {fileID: 2076288974405886049, guid: b378fa91b0cd7af46b23eace890daa75, type: 3}
+  PlayerMale2Blue: {fileID: 6248268044217491118, guid: 6281e96536d236c4cb0ccd3af0dc2bbc, type: 3}
+  PlayerMale3Red: {fileID: 6610882932014931717, guid: c967220b3f858bc4c9aeb9b8a0f0cea0, type: 3}
+  PlayerMale3Green: {fileID: 246895058814482235, guid: 481a83194ba575f4798839d0ba671d67, type: 3}
+  PlayerMale3Blue: {fileID: 448202265712614435, guid: e5a6ad66376ea2c44880f58d7afaf4fb, type: 3}

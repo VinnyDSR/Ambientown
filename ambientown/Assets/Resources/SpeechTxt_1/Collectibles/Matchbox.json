@@ -1,0 +1,24 @@
+{
+	"npcs":
+	
+		{
+			"name": "Matchbox",
+			"TxtEn":
+				[
+				"You found a matchbox!",
+				"Fire is widely used to clear extensive forest areas, and also a means of clearing newly cleared areas. It is very harmful to the environment when used to burn forests, and therefore should also be fought against.",
+				"In the Amazon, ⅔ of the burning is associated with the conversion of forests to agricultural areas (and in a smaller percentage to mining)."
+				],
+			"TxtPt":
+			[
+				"Você achou uma caixa de fósforo!",
+				"O fogo é muito utilizado para desmatar áreas florestais extensas, e também um meio de limpar áreas recém desmatadas. É muito prejudicial para o meio ambiente quando utilizado para queimar florestas, e por isso deve ser também combatido.",
+				"Na Amazônia, ⅔ das queimadas está associada a conversão de florestas para áreas agrícolas (e em menor porcentagem para mineração)."
+			]
+			
+		}
+		
+	
+	
+
+}

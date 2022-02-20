@@ -1,0 +1,103 @@
+{
+	"KeyA":
+	
+		{
+			"name": "KeyA",
+			"TxtEn":
+			[
+				"Move your character! Use 'A' key to move left ←"
+         		],
+			"TxtPt":
+			[
+				"Mova seu personagem! Use a letra 'A' para mover para a esquerda  ←"
+			]
+			
+		},
+	"KeyD":
+	
+		{
+			"name": "KeyD",
+			"TxtEn":
+				[
+				"Use 'D' key to move right →"
+				],
+			"TxtPt":
+			[
+				"Use a tecla 'D' para mover para a direita →"
+			]
+			
+		},
+	"KeyE":
+	
+		{
+			"name": "KeyE",
+			"TxtEn":
+				[
+				"Use 'E' key to interact with some characters in the game!"
+				],
+			"TxtPt":
+			[
+				"Use a tecla 'E' para interagir com alguns personagens do jogo!"
+			]
+			
+		},
+	"KeyP":
+	
+		{
+			"name": "KeyP",
+			"TxtEn":
+				[
+				"Use 'P' key to pause the game when you need it!"
+				],
+			"TxtPt":
+			[
+				"Use a tecla 'P' para pausar o jogo quando precisar!"
+			]
+			
+		},
+	"KeySpaceBar":
+	
+		{
+			"name": "KeySpaceBar",
+			"TxtEn":
+				[
+				"And finally, use the spacebar to jump!"
+				],
+			"TxtPt":
+			[
+				"E, por fim, use a barra de espaço para pular!"
+			]
+			
+		},
+	"Collectable":
+	
+		{
+			"name": "Collectables",
+			"TxtEn":
+				[
+				"Hi, I'm a collectable, well, I stay in the forest, but there are equivalents to me in the other phases, we give POINTS, which are important for the final ranking!"
+				],
+			"TxtPt":
+			[
+				"Olá, eu sou um coletável, bom, eu fico na floresta, porém tem equivalentes a mim nas outras fases, nós damos PONTOS, que são importantes para o ranking final!"
+			]
+			
+		},
+	"Time":
+	
+		{
+			"name": "Time",
+			"TxtEn":
+			[
+				"And I am the clock, I keep the time! The longer it takes, less points! Be careful to not take too long!"
+			],
+			"TxtPt":
+			[
+				"E eu sou o relógio, eu cronometro o tempo! Quanto mais tempo menos pontos! Cuidado para não demorar muito!"
+			]
+			
+		}
+	
+	
+
+}

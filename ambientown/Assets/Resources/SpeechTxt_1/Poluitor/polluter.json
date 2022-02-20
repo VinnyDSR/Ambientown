@@ -1,0 +1,17 @@
+{
+   "npcs":{
+      "name":"Polluter",
+      "TxtEn":[
+         "I have lived here since I was born, my parents always taught me to throw garbage in the river, but a lot has changed since I was little. We don't see fish anymore, the smell is really bad, I'm sure you can smell it...",
+         "That monument back there was a habitable area and people rejoiced there. Now everything has changed, no one can live here anymore.",
+         "But everyone does as I do, I don't see how we would be to blame for this.",
+		 "I doubt you will be able to help us like you did in the city and the forest, but good luck trying to convince us…"
+      ],
+      "TxtPt":[
+         "Moro aqui desde que nasci, meus pais sempre me ensinaram a jogar o lixo no rio, mas mudou muita coisa desde que eu era pequeno, não vemos mais peixes, o cheiro é muito ruim, tenho certeza de que você consegue sentir daí…",
+         "Aquele monumento ali atrás, antes essa área era habitável e as pessoas brincavam ali. Tudo mudou, ninguém mais aguenta viver aqui.",
+         "Mas todos fazem como eu, não vejo como seríamos os culpados disso",
+		 "Dúvido que vá poder ajudar como fez com a cidade e a floresta, mas boa sorte em tentar nos convencer…"
+      ]
+   }
+}

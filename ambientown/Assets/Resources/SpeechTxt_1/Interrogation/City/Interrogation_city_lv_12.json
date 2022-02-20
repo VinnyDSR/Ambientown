@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"interrogation",
+      "TxtEn":[
+         "Ronald has no idea how much you have helped him with the forest. The reforestation (planting the previously deforested trees with the seeds we gathered) helped everyone! Including him and that funny hair.",
+         "He commented on the garbage collection because he saw you taking two bags, keep it up!",
+         "Garbage collection is very important for the environment. Garbage needs to go through three main phases: conditioning, collection, and final disposal. The first one, the conditioning, depends on the whole population, and is to leave the correct garbage in the correct place. We will learn about it and the other two phases in the future, onward!"
+      ],
+      "TxtPt":[
+         "Ronald não faz ideia do quanto você o ajudou com a floresta. O reflorestamento, ou seja, plantar as árvores antes desmatadas com as sementes que juntamos, ajudou a AmbienTown como um todo, inclusive ele e aquele cabelo engraçado.",
+         "Ele comentou sobre a coleta de lixo porque viu você pegando dois sacos, continue assim!",
+         "A coleta de lixo é muito importante para o meio ambiente. O lixo precisa passar por três principais fases: o acondicionamento, a coleta e a destinação final. A primeira, o acondicionamento, depende de toda a população, e é deixar o lixo correto no lugar correto. Vamos aprender sobre ela e as outras duas fases no decorrer dessa fase, avante!"
+      ]
+   }
+}

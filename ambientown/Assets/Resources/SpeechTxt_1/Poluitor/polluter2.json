@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"Polluter second encounter",
+      "TxtEn":[
+         "So, you really collected all this plastic...I can't believe how it makes everything prettier, it smells better, even the fish seem to be coming back.",
+         "You know, maybe you're right. Just as it was with the lumberjack, warning about the importance of trees. The same with Ronald, and how he should be more concerned about garbage collection and excessive emission of pollutants. And it looks like you did the same to me.",
+         "I can't thank you for opening my eyes (or rather, my only eye) about the importance of rivers and environmental preservation. Avoid using plastic, depositing garbage in the correct place, volunteer work and radiation. Wow, you really are a hero."
+      ],
+      "TxtPt":[
+         "Então, você realmente recolheu todo esse plástico...Não consigo acreditar em como isso torna tudo mais bonito, o cheiro melhor, até os peixes parecem estar voltando.",
+         "Sabe, talvez você esteja certo. Assim como estava com o lenhador, alertando sobre a importância das árvores. O mesmo com o Ronald, e como ele deve se preocupar mais com a coleta de lixo e a emissão excessiva de poluentes. E parece que fez o mesmo comigo.",
+         "Não tenho como te agradecer por abrir meus olhos (ou melhor, meu único olho) sobre a importância dos rios e da preservação ambiental. Evitar o uso de plástico, depositar o lixo no lugar correto, os trabalhos voluntários e a radiação. Uau, você é mesmo um herói."
+      ]
+   }
+}

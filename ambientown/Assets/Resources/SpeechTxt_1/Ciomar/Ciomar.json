@@ -1,0 +1,17 @@
+{
+   "npcs":{
+      "name":"Ciomar",
+      "TxtEn":[
+         "Wow, you must be the hero, friend of my brother Moacir.",
+         "It's a pleasure, and thanks for picking up my headdress, it's chaos here. Locals don't understand that the river is necessary for everyone's survival here. They throw trash everywhere, and they think everything is fine…",
+         "Thanks for collecting all this plastic. Currently, 88% of marine water contamination is caused by plastic waste. At a global level, if waste treatment continues as it is today, by 2050 the amount of waste in the sea will be greater than the amount of fish.",
+		 "This is all very important. Thank you for learning about all this, and for making it happen in your daily life. You are a hero. Go ahead and convince the polluter!"
+      ],
+      "TxtPt":[
+         "Nossa, você deve ser o herói amigo do meu irmão Moacir",
+         "Um prazer, e obrigado por recolher meu cocar, está tudo um caos aqui. Os moradores locais não entendem que o rio é necessário para sobrevivência de todos por aqui. Jogam lixo lá mesmo, e acham que está tudo bem…",
+         "Obrigado por recolher todo esse plástico. Atualmente 88% da contaminação das águas marinhas é originada por resíduos plásticos. A nível global, se o tratamento do lixo continuar da forma que é hoje, em 2050 a quantidade de resíduos no mar será maior do que a quantidade de peixes.",
+		 "Isso tudo é muito importante. Obrigado por aprender sobre tudo isso, e por fazer acontecer no seu dia a dia. Você é um herói. Avance e convença o poluidor!"
+      ]
+   }
+}

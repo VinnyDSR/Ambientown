@@ -1,0 +1,25 @@
+{
+	"npcs":
+	
+		{
+			"name": "Salles",
+			"TxtEn":
+				[
+				"Hi! I heard that you are trying to save AmbienTown from the problems that have been happening.",
+				"Here at the forest, since I started logging, it seems that the weather got hotter and dry, besides the animals and local residents that have gone away. I just can't understand…",
+				"Maybe if you could collect all the seeds to plant the trees we could bring the AmbienTown Forest back to life!"
+				],
+			"TxtPt":
+			[
+				"Olá! Ouvi dizer que você está tentando salvar a AmbienTown dos problemas que a cidade vem sofrendo.",
+				"Aqui na floresta, desde que comecei a trabalhar cortando árvores, parece que o clima ficou mais seco e quente, além dos animais e moradores locais que foram embora. Não consigo entender…",
+				"Talvez se você pudesse recolher todas as sementes para plantarmos as árvores poderíamos trazer a Floresta da AmbienTown de volta à vida!"
+				
+			]
+			
+		}
+		
+	
+	
+
+}

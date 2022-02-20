@@ -1,0 +1,17 @@
+{
+   "npcs":{
+      "name":"Cocar",
+      "TxtEn":[
+         "Wow, an indigenous headdress.",
+         "This headdress reminds me of Moacir, that friend of yours from the forest, remember?",
+         "Many riverside populations, including some native indigenous tribes, depend on the environmental preservation of rivers and lakes for their survival.",
+         "For them, it is very important that you continue your journey in garbage collection and combating water pollution, move forward!"
+      ],
+      "TxtPt":[
+         "Uau, um cocar indígena.",
+         "Esse cocar me lembra Moacir, aquele seu amigo da floresta, lembra?",
+         "Muitas populações ribeirinhas, inclusive algumas tribos indígenas nativas, dependem da preservação ambiental dos rios e lagos para sua sobrevivência.",
+         "Para eles é muito importante que você continue sua jornada na coleta de lixo e no combate à poluição hídrica, avante!"
+      ]
+   }
+}

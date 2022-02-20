@@ -1,0 +1,26 @@
+{
+	"npcs":
+	
+		{
+			"name": "Bird",
+			"TxtEn":
+				[
+				"You found Blue, the little birdie! \"peep-peep!!!\" ",
+				"As the woodcutter said, animals also suffer greatly from deforestation. Those that don't die are forced to migrate elsewhere, because they lose their homes: the trees.",
+				"This loss of animals is called biodiversity loss. Biodiversity means the set of all living things that inhabit a particular place, which also includes the plants and animals of the earth.",
+				"We need to protect the animals too, go get the seeds so we can bring the forests back again."
+				],
+			"TxtPt":
+			[
+				"Você achou o passarinho Blue! \"piu-piu!!!\" ",
+				"Como o lenhador falou, os animais também sofrem muito com o desmatamento. Aqueles que não morrem são obrigados a migrarem para outro lugar, por perderem suas casas: as árvores.",
+				"Essa perda dos animais é chamada de perda de biodiversidade. Biodiversidade significa o conjunto de todos os seres vivos que habitam um determinado local, o que também inclui as plantas e animais da terra.",
+				"Precisamos proteger os animais também, vá pegar as sementes para trazermos as florestas novamente."
+			]
+			
+		}
+		
+	
+	
+
+}

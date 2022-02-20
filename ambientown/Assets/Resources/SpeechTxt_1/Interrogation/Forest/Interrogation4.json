@@ -1,0 +1,24 @@
+{
+	"npcs":
+	
+		{
+			"name": "Interrogation forest lv4",
+			"TxtEn":
+				[
+				"Deforestation is, above all, a problem that directly influences humans themselves!",
+				"The worsening air quality, the loss of continuous production of wood and organic food are just a few examples of how man suffers most from deforestation.",
+				"By stopping the lumberjack, deforestation (and your beard...), you will be able to bring the good, cool climate of AmbienTown back. "
+				],
+			"TxtPt":
+			[
+				"O desmatamento é, antes de tudo, um problema que influencia diretamente o próprio ser humano!  ",
+				"A piora na qualidade do ar, a perda de produção contínua de madeira e alimentos orgânicos são apenas alguns exemplos de como o homem é o que mais sofre com o desmatamento.",
+				"Parando o lenhador, o desmatamento (e a sua barba…), você conseguirá trazer o bom e fresco clima da AmbienTown de volta."
+			]
+			
+		}
+		
+	
+	
+
+}

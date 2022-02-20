@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8432676099976048027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8432676099976048006}
+  - component: {fileID: 8432676099976048025}
+  - component: {fileID: 8432676100933705816}
+  m_Layer: 0
+  m_Name: Interrogation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8432676099976048006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8432676099976048027}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.75, y: -7.23, z: 0}
+  m_LocalScale: {x: 6.192, y: 6.192, z: 6.192}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &8432676099976048025
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8432676099976048027}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 2401032056598695752, guid: f381547985b6e0247a11c89353f669d2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.12, y: 0.16}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &8432676100933705816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8432676099976048027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6f502acdff1ba47977e22a56e39ba9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 2401032056598695752, guid: f381547985b6e0247a11c89353f669d2, type: 3}
+  actorName: AmbienTown
+  speechTxtEn:
+  - 'Three of the major problems of deforestation are climate change, loss of animal
+    diversity and expulsion of indigenous peoples. '
+  - 'Carbon, which is initially absorbed by trees, is released into the atmosphere
+    and contributes to global warming and air pollution. '
+  - 'Because trees are homes to various species of animals, this also causes many
+    of them to migrate! The Indians, who use the trees for their livelihood, are
+    also forced to migrate elsewhere. It is very sad to have to leave their homes '
+  - Deforestation is a very bad human practice, and one that can take the life out
+    of forests and cities like AmbienTown.
+  - That's why we must fight it. Take all the seeds to save the Forest!
+  speechTxtPt:
+  - "Tr\xEAs dos grandes problemas do desmatamento s\xE3o a altera\xE7\xE3o no clima;
+    perda da diversidade dos animais e expuls\xE3o dos povos ind\xEDgenas."
+  - "O carbono, que inicialmente \xE9 absorvido pelas \xE1rvores, \xE9 liberado para
+    a atmosfera e contribui para o aquecimento global e polui\xE7\xE3o a\xE9rea. "
+  - "Em raz\xE3o de as \xE1rvores serem casas de v\xE1rias esp\xE9cies de animais,
+    isso tamb\xE9m causa a migra\xE7\xE3o de muitas delas! Os \xEDndios, que utilizam
+    das \xE1rvores para a sua viv\xEAncia, tamb\xE9m s\xE3o for\xE7ados a migrar
+    para outro lugar. \xC9 muito triste ter de deixar suas casas."
+  - "Desmatamento \xE9 uma pr\xE1tica humana muito ruim, e que pode tirar a vida
+    de florestas e cidades como a AmbienTown. "
+  - "Por isso devemos combat\xEA-lo. Pegue todas as sementes para salvar a Floresta!"

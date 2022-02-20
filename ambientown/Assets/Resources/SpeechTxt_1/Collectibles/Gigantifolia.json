@@ -1,0 +1,24 @@
+{
+	"npcs":
+	
+		{
+			"name": "Gigantifolia",
+			"TxtEn":
+				[
+				"You found the giant leaf from the Amazon!",
+				"This leaf is from the Coccoloba gigantifolia tree (complicated, no?)",
+				"They can reach up to 2.5 meters long and are a unique natural beauty, however, they are being threatened by deforestation. It would be a huge (really  huge) loss to nature if they became extinct."
+				],
+			"TxtPt":
+			[
+				"Você achou a folha gigante da Amazonia!",
+				"Essa folha é da árvore Coccoloba gigantifolia (complicado, não?)",
+				"Podem chegar até 2,5 metros de comprimento e são uma beleza natural única, porém, estão sendo ameaçadas pelo desmatamento. Seria uma perda enorme (enorme mesmo) para a natureza se fosse extinta."
+			]
+			
+		}
+		
+	
+	
+
+}

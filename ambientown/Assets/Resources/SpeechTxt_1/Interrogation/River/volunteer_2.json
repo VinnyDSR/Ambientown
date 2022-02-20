@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"Volunteer second encounter",
+      "TxtEn":[
+         "There are many Non-Governmental Organizations (NGOs) and other voluntary institutions that help with garbage collection and other various environmental topics.",
+         "Currently, according to a survey, there are more than 338,000 NGOs and foundations dedicated to the environment in Brazil. It's an expressive number and it's increasing, mainly because people are learning the importance of taking care of the environment, just like you.",
+         "Go ahead and be careful with the challenges, it seems that here there are lands that you can't walk on and others that do, try to memorize the path and do not die…"
+      ],
+      "TxtPt":[
+         "Existem muitas Organizações Não Governamentais (ONGs) e outras instituições voluntárias que ajudam na coleta do lixo e em outros diversos tópicos ambientais",
+         "Atualmente, segundo levantamento, são mais de 338 mil ONGs e fundações  voltadas ao meio ambiente no Brasil. É um número interessante e que vem crescendo no mundo todo, muito pelas pessoas estarem aprendendo a importância de cuidar do meio ambiente, assim como você",
+         "Avançe e cuidado com os desafios, parece que aqui existem terras que não dá pra pisar e outras que sim, tente decorar o caminho e não morrer…"
+      ]
+   }
+}

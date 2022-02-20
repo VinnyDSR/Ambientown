@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2326507554850888772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2326507554850888771}
+  - component: {fileID: 2326507554850888768}
+  - component: {fileID: 2326507554850888775}
+  - component: {fileID: 2326507554850888774}
+  m_Layer: 0
+  m_Name: Ronald
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2326507554850888771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2326507554850888772}
+  m_LocalRotation: {x: 0, y: 0.9848078, z: -0, w: -0.17364809}
+  m_LocalPosition: {x: 6.38, y: -1.28, z: 0.42}
+  m_LocalScale: {x: 1.8, y: 1.8, z: 0.94586}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 200, z: 0}
+--- !u!212 &2326507554850888768
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2326507554850888772}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 1755671207399741166, guid: 27d6a620167987544ac46d8a1fad192c, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.22, y: 0.24}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &2326507554850888775
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2326507554850888772}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8ada5b7a1be285e47b4c97b44b62c6ef, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2326507554850888774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2326507554850888772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6f502acdff1ba47977e22a56e39ba9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 1755671207399741166, guid: 27d6a620167987544ac46d8a1fad192c, type: 3}
+  actorName: Ronald
+  speechTxtEn:
+  - Hello, I'm the businessman Ronald. Not Donald, Ronald. And not McDonald either,
+    just Ronald really.
+  - I came here to this town to make a lot of money, not that i dont already have.
+    But the more we have, the more we want. You know how it is, right?
+  - It's weird, a lot of people don't like me around here. But I think it's envy,
+    if they had the willpower I had, they would be in my place. That's what my father,
+    and my grandfather, and my great-grandfather, always said when they made their
+    fortunes. We're rich because we deserve it, you know?
+  - I was told that you helped in the reforestation of the forest with the lumberjack.
+    He was my employee. Now I don't have anyone to cut down trees anymore. My cattle
+    need a place to graze, and I need an open area to set up new factories.
+  - You've gotten in my way a lot, know that. Well, time is money, I don't know what
+    you've come here to do, but if you're going to collect the town's garbage and
+    come with talk about the environment, know that I won't pay any sort of attention.
+    I have to go, see you later, "hero"
+  speechTxtPt:
+  - "Ol\xE1, eu sou o empres\xE1rio Ronald. N\xE3o Donald, Ronald. E tamb\xE9m n\xE3o
+    o McDonald, apenas Ronald mesmo."
+  - "Vim aqui para essa cidade para fazer muito dinheiro, n\xE3o que eu j\xE1 n\xE3o
+    tivesse. Mas quanto mais temos, mais queremos."
+  - "\xC9 estranho, muita gente n\xE3o gosta de mim por aqui. Mas acho que \xE9 inveja,
+    se eles tivessem a for\xE7a de vontade que tive, estariam no meu lugar. Foi o
+    que meu pai, e meu av\xF4, e meu bisav\xF4, sempre diziam quando fizeram suas
+    fortunas. Somos ricos porque merecemos, sabe?"
+  - "Me disseram que voc\xEA ajudou no reflorestamento da floresta com o lenhador.
+    Ele era meu funcion\xE1rio. Agora n\xE3o tenho mais quem corte \xE1rvores para
+    mim. Meu gado precisa de lugar para pastar, e preciso de \xE1rea livre para instalar
+    novas f\xE1bricas."
+  - "Voc\xEA me atrapalhou muito, saiba disso. Bom, tempo \xE9 dinheiro, n\xE3o sei
+    o que veio fazer aqui, mas se for recolher o lixo da cidade e vir com conversas
+    sobre o meio ambiente, saiba que n\xE3o vou dar aten\xE7\xE3o. Tenho que ir,
+    at\xE9 logo, \u201Cher\xF3i\"."

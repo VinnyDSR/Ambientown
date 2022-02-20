@@ -1,0 +1,17 @@
+{
+   "npcs":{
+      "name":"Volunteer first encounter",
+      "TxtEn":[
+         "Wow, I saw you collecting all these bottles, thanks!”",
+         "I am a garbage collector volunteer here in the riverside areas too, and one day I want to be a hero like you!",
+         "I heard about what you did in the forest and the river here in AmbienTown, you are already a legend.",
+		 "Thank you for setting an example and helping all these people. It's going to be pretty tough here, but you are doing fine. Good luck!"
+      ],
+      "TxtPt":[
+         "Uau, vi você coletando todas essas garrafas, valeu!",
+         "Eu sou um voluntário na coleta de lixo aqui nas áreas ribeirinhas também, e um dia quero ser um herói como você!",
+         "Ouvi falar sobre o que você fez na floresta e do rio aqui na AmbienTown, você já é uma lenda.",
+		 "Obrigado por servir de exemplo e ajudar a todas essas pessoas. Aqui no Rio vai ser bem difícil, mas você está indo bem. Boa sorte!"
+      ]
+   }
+}

@@ -1,0 +1,46 @@
+﻿@model AmbienTown.Dto.RecuperarSenha.AlterarSenhaDto
+
+@{
+    ViewData["Title"] = "AlterarSenha";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Alteração de senha</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @if (Model?.IsSuccess == true)
+        {
+            <div class="alert alert-success" role="alert">
+                <p>
+                    Você atualizou a senha com sucesso! <br />
+                    Pode fechar esta janela.
+                </p>
+            </div>
+        }
+        else
+        {
+            <form asp-action="AlterarSenha" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Token" class="form-control" />
+                <div class="form-group">
+                    <label asp-for="Senha" class="control-label"></label>
+                    <input asp-for="Senha" name="senha" class="form-control" type="password" placeholder="Digite uma nova senha com no mínimo 20 caracteres" />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ConfirmacaoSenha" class="control-label"></label>
+                    <input asp-for="ConfirmacaoSenha" name="ConfirmacaoSenha" class="form-control" type="password" placeholder="confirme a senha" />
+                    <span asp-validation-for="ConfirmacaoSenha" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Alterar Senha" class="btn btn-primary" />
+                </div>
+            </form>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,17 @@
+{
+   "npcs":{
+      "name":"",
+      "TxtEn":[
+         "Charlie said some very true things. He is an intelligent man. He talked about the benefits of garbage collection, one of them is to combat the heat island phenomenon!",
+         "The heat island effect is an anthropic phenomenon that occurs in urban centers by the modification of the natural environment, such as the removal of native vegetation, soil sealing, and the emission of pollutant gases.",
+         "With this, the air quality worsens a lot, giving rise to respiratory problems and an overheating of the climate.",
+         "We must always fight the emission of pollutant gases, both by the accumulation of cars and motorcycles and by industrial production. In addition, preserve the green areas and continue with the garbage collection, go ahead!"
+      ],
+      "TxtPt":[
+         "Charlie falou coisas muito verdadeiras. É um homem inteligente. Ele falou sobre os benefícios da coleta de lixo, um deles é combater o fenômeno da ilha de calor!",
+         "A ilha de calor é um fenômeno antrópico que ocorre nos centros urbanos pela modificação do meio natural, como a retirada da vegetação nativa, a impermeabilização do solo e a emissão de gases poluentes.",
+         "Com isso, a qualidade do ar piora muito, originando problemas respiratórios e um superaquecimento do clima.",
+         "Devemos sempre combater a emissão dos gases poluentes, tanto pelo acúmulo de carros e motos como pela produção industrial. Além disso, preservar as áreas verdes e continuar com a coleta de lixo, avance!"
+      ]
+   }
+}

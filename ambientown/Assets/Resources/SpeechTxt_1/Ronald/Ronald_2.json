@@ -1,0 +1,26 @@
+{
+	"npcs":
+	
+		{
+			"name": "Ronald second encounter",
+			"TxtEn":
+				[
+				"TREMENDOUS job that you did!",
+				"I didn't think so many people would enjoy seeing you pick up the trash, the town seems very grateful to you. I have respect for that.",
+				"You made me rethink a lot of things, maybe adopting alternative means of energy, preserving trees in cities, recycling and collecting garbage. Those are all important things, and things that we can all practice every day.",
+				"Thanks for the lesson. If you need a job, just call me! I'll send one of Noel electric cars to your house, then send me a picture showing how grateful you are. It's for advertising, you know how it is, right? Goodbye, Hero!"
+				],
+			"TxtPt":
+			[
+				"TREMENDO trabalho que você fez!",
+				"Não achei que tantas pessoas iriam gostar de ver você recolhendo o lixo, a cidade parece muito grata a você. Tenho respeito por isso.",
+				"Você me fez repensar muitas coisas, talvez a adoção de meios alternativos de energia, a preservação das árvores também nas cidades, a reciclagem e a coleta seletiva de lixo, sejam coisas importantes, e que todos podemos praticar todos os dias.",
+				"Obrigado pela lição. Se precisar de um trabalho, pode vir me procurar! Vou mandar um dos carros elétricos do Noel para sua casa, depois me mande uma foto mostrando o quanto está agradecido. É para propaganda, sabe como é, né? Adeus, Herói!"
+			]
+			
+		}
+		
+	
+	
+
+}

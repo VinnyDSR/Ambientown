@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/LanguageSelector.unity
+    guid: 84fcad3fc15e9554f8c1e9a96651d7c3
+  - enabled: 1
+    path: Assets/Scenes/Main/Configuration.unity
+    guid: e1d6f83ee57c65a449d249c275bfb882
+  - enabled: 1
+    path: Assets/Scenes/Main/ConfigurationScene.unity
+    guid: 0a26b8a680c607641899815b3b56cedc
+  - enabled: 1
+    path: Assets/Scenes/Main/Credits.unity
+    guid: 5480d6b4b76edd945b9e903c7e9065cf
+  - enabled: 1
+    path: Assets/Scenes/Main/Customization.unity
+    guid: ce722192467180b4aa33486ad94e2c8e
+  - enabled: 1
+    path: Assets/Scenes/Forest/FOREST.unity
+    guid: 90b7ba033bd1a4d4294285ec35bf6efd
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_1.unity
+    guid: e8cc256d5d062c84d897c8939cb92b57
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_2.unity
+    guid: 26ae369ff6da8d649b63dd22aedae40c
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_3.unity
+    guid: 7d4909677d5925d459b50721266303f3
+  - enabled: 1
+    path: Assets/Scenes/City/CITY.unity
+    guid: 900b46690a8fc1f4484e4be835a0b248
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_11.unity
+    guid: 17b6d4a717a826749a3002e8082183b7
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_12.unity
+    guid: b37d2a72a44856443a8af75e12890f90
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_13.unity
+    guid: 8a9af6c9ef1623842a3bfd0e087a0a59
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_14.unity
+    guid: 5e71403dc0e6fd74a9c092889019d15a
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_21.unity
+    guid: a94edce43fc99dd468c4ed1c61848f14
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_22.unity
+    guid: 5a95afe63e50e3743bf196ad280c6286
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_23.unity
+    guid: 22ed546e8ea97f5489eacd85113149d3
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_24.unity
+    guid: 8bd3b26faa671554a8ee4f39cc03486c
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_25.unity
+    guid: 050adcf285fb78848bf8c51ada7a3e5f
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_26.unity
+    guid: b82b2b530b79933439cb2e6e11a937e7
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_27.unity
+    guid: 34734ce328862ee4ab4d59daab48f580
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_28.unity
+    guid: 6ef320a1fbc324e4f9c448afad9a441a
+  - enabled: 1
+    path: Assets/Scenes/River/lvl_29.unity
+    guid: 19b604fe56084d146bac93a47e6025a8
+  - enabled: 1
+    path: Assets/Scenes/River/RIVER.unity
+    guid: ef98ca5b9b5974e45bead5b7d8e75f9a
+  - enabled: 1
+    path: Assets/Scenes/River/SEWER.unity
+    guid: 9eaacc375ad534d478e286b17c3de8a7
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_15.unity
+    guid: 110a6383f82b3f24caac04dd186cbf65
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_16.unity
+    guid: 7ca23923cf461854784dacdb7cbc767f
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_17.unity
+    guid: 6bdcfc208a9eefa4db32c28e0410a875
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_18.unity
+    guid: 515920376326c3c4bb20352aa40a5379
+  - enabled: 1
+    path: Assets/Scenes/City/lvl_19.unity
+    guid: cac4f55fa2f8bad49bf1453327738a78
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_4.unity
+    guid: 623d6029f9715d345b265748cbe8c337
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_5.unity
+    guid: 2fd0a81bc0b6a4a4e9f168bae59a473b
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_6.unity
+    guid: 224439fc1a134b24d906aed203bd342d
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_7.unity
+    guid: 48ef943daf0873e4aa7e8224aaac0005
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_8.unity
+    guid: 3a23c1ca31b7f9444b2a516391370e4a
+  - enabled: 1
+    path: Assets/Scenes/Forest/lvl_9.unity
+    guid: 71926c60e06425f48bf63d04d88ce0f4
+  - enabled: 1
+    path: Assets/Scenes/Main/HowToPlay.unity
+    guid: f2b2a779698d7d242b710e7c77708edc
+  - enabled: 1
+    path: Assets/Scenes/Main/LeaderBoard.unity
+    guid: 432d53b09ebfa4440ad0c317eb7bd44f
+  - enabled: 1
+    path: Assets/Scenes/Main/Login.unity
+    guid: 4df3ea5f55c6f8846a24c6a878e20ee3
+  - enabled: 1
+    path: Assets/Scenes/Main/Main.unity
+    guid: 344436495574f9c41a28484233f71576
+  - enabled: 1
+    path: Assets/Scenes/Main/Map.unity
+    guid: 280eaea3f82699b4e827154bea58a8f5
+  - enabled: 1
+    path: Assets/Scenes/Main/PasswordRecovery.unity
+    guid: 38eeaadd51576074f9f120d104ac8402
+  - enabled: 1
+    path: Assets/Scenes/Main/Registration.unity
+    guid: a55beac6a7d503b409cba0ffeb0fd34f
+  m_configObjects: {}

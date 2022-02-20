@@ -1,0 +1,15 @@
+{
+   "npcs":{
+      "name":"Noel Musk",
+      "TxtEn":[
+         "Did you see that electric car? I love how futuristic it is...",
+         "My name is Noel Musk, I manufacture those cars, a pleasure to meet you!",
+         "I was very inspired watching you collect the city trash, we really appreciate it. Let's schedule a trip sometime, have you ever been to space?"
+      ],
+      "TxtPt":[
+         "Viu aquele carro elétrico? Adoro o quanto é futurista…",
+         "Meu nome é Noel Musk, eu quem fabrico esses carros, um prazer te conhecer!",
+         "Fiquei muito inspirado vendo você recolher o lixo da cidade, nós agradecemos muito. Vamos marcar uma viagem qualquer dia, já foi para o espaço?"
+      ]
+   }
+}
